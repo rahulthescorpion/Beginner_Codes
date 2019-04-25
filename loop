@@ -1,0 +1,5 @@
+while read p;
+do
+  var = "$p"
+  # do your codes inside this loop
+done < new
